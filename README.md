@@ -1,4 +1,4 @@
-![header-background](https://user-images.githubusercontent.com/88071912/137026041-a4f06ed7-fcc4-45d7-bde5-b2ca9c2904b2.png)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+SuperCoder.;I+AM+A+SEASONED+WEB+DEVELOPER.;WELCOME+TO+VISIT+MY+Github.)](https://git.io/typing-svg)
     <h2 align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
