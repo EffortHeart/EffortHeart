@@ -10,7 +10,6 @@
 </div>
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
 ⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.<br>
 ⚡Fast response and good communication skills.<br>
 ⚡well-organized/commented code.<br>
@@ -22,6 +21,7 @@ Close contact with you is very important for me, to avoid misunderstandings in t
 Courage, It's not too late to build a better world.
 Alone we can do so little; together we can do so much.    
 </p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
 </div>
 
 <hr/>
