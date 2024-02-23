@@ -19,6 +19,9 @@
 ✔ Skilled in developing AI-powered applications and machine learning models using frameworks like TensorFlow, PyTorch, and scikit-learn.<br>
 ✔ Experienced in natural language processing (NLP), computer vision, and predictive analytics, with a focus on solving real-world problems and enhancing user experiences.<br>
 ✔ Proficient in data preprocessing, feature engineering, model training, and evaluation to deliver accurate and scalable AI solutions.<br>
-
+🚩 Blockchain Expertise:<br>
+✔ Proficient in developing decentralized applications (DApps) using blockchain technologies such as Ethereum, Solidity, and Hyperledger.<br>
+✔ Experienced in smart contract development, token creation, and implementing blockchain-based solutions for various use cases, including supply chain management, finance, and decentralized finance (DeFi).<br>
+✔ Strong understanding of consensus mechanisms, cryptography, and blockchain protocols.<br>
 
 </div>
