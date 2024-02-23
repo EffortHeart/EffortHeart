@@ -11,7 +11,10 @@
 
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
-⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.<br>
+🚩 Full Stack Development Skills: <br>
+✔ Strong proficiency in front-end technologies such as HTML, CSS, JavaScript, and modern JavaScript frameworks like React, Angular, and Vue.js.<br>
+✔ Experienced in back-end development using server-side technologies such as Node.js, Express.js, Django, and Flask.<br>
+✔ Knowledgeable in database management systems (SQL and NoSQL), RESTful APIs, microservices architecture, and cloud platforms like AWS and Azure.<br>
 ⚡Fast response and good communication skills.<br>
 ⚡well-organized/commented code.<br>
 ⚡SEO friendly, semantic markup, and load speed optimization.<br>
