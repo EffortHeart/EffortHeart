@@ -1,5 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kode+Mono&weight=600&size=30&duration=3000&pause=1500&color=000000&center=true&vCenter=true&random=false&width=600&lines=Seasoned+Full-stack+Developer;Skillful+BlockChain+Developer;Talented+AI+Engineer)](https://git.io/typing-svg)
 
+<div align="center">
+<table>
+  <tr>
+    <td>𝚈𝚘𝚞 𝚊𝚛𝚎 𝚟𝚒𝚜𝚒𝚝𝚘𝚛</td>
+    <td><img src="https://profile-counter.glitch.me/Gchism94/count.svg" alt="" /></td>
+  </tr>
+</table>
+</div>
+
 <div>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
 ⚡A clean responsive code that will be well displayed in any browser and adapted to any device of any resolution, be it a phone or a tablet, or a widescreen device.<br>
