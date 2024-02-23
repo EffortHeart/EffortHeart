@@ -69,7 +69,6 @@
 </div>  
 
 <div>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" />
 <h4>🚩 Full Stack Development Skills:</h4> 
 ✔ Front-end technologies such as HTML, CSS, JavaScript, and modern JavaScript frameworks like React, Angular, and Vue.js.<br>
 ✔ Experienced in back-end development using Nest.js, Express.js, Django, and Flask.<br>
